@@ -1,0 +1,14 @@
+{
+  "name": "stack-up",
+  "version": "1.0.0",
+  "description": "Learn full stack development with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
